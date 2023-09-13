@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douglassilvaido
-- 👀 I’m interested in  me tornar um desenvolvedor júnior
+- 👀 I’m interested in becoming a junior developer
 - 🌱 I’m currently learning  javaScript
 
 <!---
